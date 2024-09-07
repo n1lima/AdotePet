@@ -1,0 +1,37 @@
+    <!DOCTYPE html>
+    <html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link reL="stylesheet" href="styles.css">
+        <title>Adote um Pet</title>
+    </head>
+    <body>
+        <header>
+            <h1>Que tal adotar um Pet?</h1>
+        </header>
+
+        <main>
+            <section>
+                <p>Quer ter um companheiro para qualquer hora? <br>
+                    Digite o companheiro que você procura</p>   
+            
+                <input type="text" placeholder="Procure seu animal de estimação" id="campo-pesquisa">
+                <button onclick="pesquisar()">Pesquisar</button>
+
+            </section>
+
+            <section class="resultados-pesquisa"
+            id="resultados-pesquisa">
+            </section>
+        </main>
+        <footer>
+            &copy;2024 - Adote um Pet. Todos os direitos reservados<br>
+            Entre em contato pelo email: <a href="mailto:exemplo@dominio.com">ongAdote_Pet@gmail.com</a>
+        </footer>
+
+          <!-- Incluindo o script como módulo -->
+        <script type="module" src="app.js"></script>
+        <script type="module" src="dados.js"></script>
+    </body>
+    </html>
