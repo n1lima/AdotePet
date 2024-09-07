@@ -20,4 +20,4 @@ O site **Adote um Pet** foi projetado para facilitar o processo de adoção de a
 
 Veja o vídeo de demonstração do projeto:
 
-[![Vídeo de Demonstração](https://youtu.be/C5gnnQgFuSU)
+[![Vídeo de Demonstração](https://img.youtube.com/vi/C5gnnQgFuSU/hqdefault.jpg)](https://youtu.be/C5gnnQgFuSU)
