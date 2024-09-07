@@ -15,3 +15,9 @@ O site **Adote um Pet** foi projetado para facilitar o processo de adoção de a
 - **HTML**: Estruturação das páginas e conteúdo do site.
 - **CSS**: Estilização e layout do site.
 - **JavaScript**: Interatividade e dinamismo.
+
+## Demonstração
+
+Veja o vídeo de demonstração do projeto:
+
+[![Vídeo de Demonstração](https://youtu.be/C5gnnQgFuSU)
